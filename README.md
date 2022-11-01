@@ -1,6 +1,9 @@
 # NHBS-Net
 NHBS-Net: Feature Fusion Attention Network for Neonatal Hip Bone Key Structures Segmentation in Ultrasound
 
+# Citation
+If you use this dataset for your research, please cite our paper:
+```bib
 @article{DBLP:journals/tmi/LiuLSLLSZJS21,
   author    = {Ruhan Liu and
                Mengyao Liu and
@@ -20,7 +23,4 @@ NHBS-Net: Feature Fusion Attention Network for Neonatal Hip Bone Key Structures 
   year      = {2021},
   url       = {https://doi.org/10.1109/TMI.2021.3087857},
   doi       = {10.1109/TMI.2021.3087857},
-  timestamp = {Wed, 15 Dec 2021 10:30:15 +0100},
-  biburl    = {https://dblp.org/rec/journals/tmi/LiuLSLLSZJS21.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
